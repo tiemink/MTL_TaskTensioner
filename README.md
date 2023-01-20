@@ -30,7 +30,7 @@ python train.py [-h] [--param_file [PARAM_FILE]]
 
 
 # Contact
-For any question, you can contact tiemi[dot]mizuno@usp.br
+For any question, you can contact tiemi[dot]mizuno[at]usp[dot]br
 
 
 # Citation
