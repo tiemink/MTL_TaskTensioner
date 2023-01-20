@@ -1,0 +1,17 @@
+{
+    "dataset": "logic",
+    "tasks": ["xor","and"],
+    "loss_scale": {"xor":10.0, "and":1.0},
+    "optimizer": "SGD",
+    "lr": 0.05,
+    "min_err":1e-3,
+    "momentum": 0.9,
+    "drop_lr_factor": 0.3,
+    "epochs": 2500,
+    "normalization_type": "none",
+    "use_tensors": true,
+    "alpha": 0.3,
+    "model_seed": 136,
+    "train": false,
+    "weight_coef":"none"
+}
