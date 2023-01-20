@@ -1,0 +1,4 @@
+pytorch==1.8.1
+tqdm==4.64.1
+protobuf==3.20.0
+numpy==1.19
